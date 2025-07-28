@@ -5,17 +5,9 @@ nositetitle: true
 ---
  ``` Hinweis: Die Übersetzung ist noch in der Entstehung und daher ist der Kurs noch nicht vollständig übersetzt. Dieser Hinweis wird entfernt, sobald die Übersetzung vollständig ist. ```
 
-Kurse und Vorlesungen lehren über anspruchsvolle Themen in der Informatik: von Betriebssystemen
-bis maschinelles Lernen, aber es gibt ein fundamentales Thema das selten abgedeckt wird und 
-stattdessen den Studenten in Eigenarbeit überlassen wird:
-Der Umgang mit Konsolen & Werkzeugen. Wir zeigen dir, wie du mit der Kommandozeile umgehst und 
-im handumdrehen ein leistungsstarkes Textbearbeitungsprogramm, Versionskontrollsysteme und vieles mehr lernst!
+In Kursen und Vorlesungen wird dir alles über anspruchsvolle Themen der Informatik gelehrt: von Betriebssystemen bis hin zu maschinellem Lernen. Aber ein fundamentales Thema wird selten abgedeckt und stattdessen den Studierenden in Eigenarbeit überlassen: Die Befähigung, ihre eigenen Werkzeuge zu beherrschen. Im Folgenden lernst du, die Kommandozeile zu meistern, leistungsstarke Texteditoren zu benützen, hilfreiche Gimmicks von Versionskontrollsystemen auszunützen und vieles mehr!
 
-
-Studierende verbringen im Laufe ihres Studiums viele Stunden, um mit diesen fundamentalen Tools umzugehen, 
-daher ist es sinnvoll den Umgang mit diesen Werkzeugen zu erlernen, um den Umgang mit diesen zu verbessern.
-Wir helfen dir dabei durch den Dschungel der Tools durchzusteigen und deine Arbeit mit diesen effizenter zu
-gestalten.
+Studierende verbringen im Laufe ihres Studiums viele Stunden, um mit diesen fundamentalen Tools umzugehen (und Tausende während ihrer Karriere), daher ist es sinnvoll, einen möglichst reibungslosen Umgang mit diesen Werkzeugen zu erlernen. Dadurch verbringen Sie weniger Zeit damit, herauszufinden, wie Sie Ihre Tools optimal nutzen können – und können sich stattdessen auf die Lösung von Problemen konzentrieren, die zuvor unmöglich komplex oder unüberwindbar schienen.
 
 Erfahre mehr über die [Motivation dieses Kurses](/about/).
 
@@ -96,7 +88,7 @@ Some more URLs:
 - [Arabisch](https://missing-semester-ar.github.io/)
 - [Italienisch](https://missing-semester-it.github.io/)
 - [Persisch](https://missing-semester-fa.github.io/)
-- [Deutsch](link-missing!)
+- [Deutsch](https://missing-semester-de.github.io/)
 
 Hinweis: Es handelt sich um externe Links zu Übersetzungen, die von der Community erstellt wurden.
 Wir haben diese nicht verifiziert.
@@ -116,7 +108,7 @@ AeroAstro](https://aeroastro.mit.edu/) für Audio und Videoequipment; und Brandi
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Quelltext</a>.</p>
+<p><a href="https://missing-semester-de.github.io/">Quelltext</a>.</p>
 <p>Lizensiert unter CC BY-NC-SA.</p>
 <p>Schaue <a href="/license/">hier</a> um selber beizutragen &amp; für die Übersetzungsrichtlinien.</p>
 </div>
