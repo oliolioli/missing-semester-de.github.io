@@ -11,18 +11,7 @@ Studierende verbringen im Laufe ihres Studiums viele Stunden, um mit diesen fund
 
 Erfahre mehr über die [Motivation dieses Kurses](/about/).
 
-{% comment %}
-# Registrierung
-
-Melden Sie sich für den Kurs IAP 2020 an, [indem Sie dieses Formular ausfüllen](https://forms.gle/TD1KnwCSV52qexVt9).
-{% endcomment %}
-
-# Termine
-
-{% comment %}
-**Lecture**: 35-225, 2pm--3pm<br>
-**Office hours**: 32-G9 lounge, 3pm--4pm (every day, right after lecture)
-{% endcomment %}
+# Vorlesungsverzeichnis
 
 <ul>
 {% assign lectures = site['2020'] | sort: 'date' %}
@@ -51,7 +40,7 @@ YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57
 # Über das MIT hinaus
 
 Wir haben diesen Kurs auch über das MIT hinaus veröffentlicht, in der Hoffnung das andere von diesen profitieren können.
-Beiträge und Disskusionen darüber können sie auf folgenden Webseiten finden:
+Beiträge und Disskusionen darüber kannst du auf folgenden Webseiten finden:
 
  - [Hacker News](https://news.ycombinator.com/item?id=22226380)
  - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
@@ -94,7 +83,7 @@ Hinweis: Es handelt sich um externe Links zu Übersetzungen, die von der Communi
 Wir haben diese nicht verifiziert.
 
 Hast du eine Übersetzung der Notizen für diese Klasse? Erstelle einen 
-[Pull Request](https://github.com/missing-semester/missing-semester/pulls) damit
+[Pull Request](https://github.com/missing-semester-de/missing-semester-de.github.io/pulls) damit
 wir diese der Liste anfügen können!
 
 ## Danksagungen
